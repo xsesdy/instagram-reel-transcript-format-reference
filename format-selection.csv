@@ -1,0 +1,4 @@
+format,contains,best_for
+TXT,Plain spoken text,"Reading, notes, search, editing copy"
+SRT,"Ordered subtitle blocks with start and end timestamps","Video editors and timed subtitles"
+WebVTT,"Timed text cues for WebVTT-compatible destinations","A platform that explicitly requests WebVTT"
